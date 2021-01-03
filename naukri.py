@@ -26,12 +26,12 @@ originalResumePath = "original_resume.pdf"
 modifiedResumePath = "modified_resume.pdf"
 
 # Update your naukri username and password here before running
-username = "Type Your email ID Here"
-password = "Type Your Password Here"
-mob = "1234567890"  # Type your mobile number here
+username = "rajesh857850@gmail.com"
+password = "Sury@4546"
+mob = "7989800390"  # Type your mobile number here
 
 # False if you dont want to add Random HIDDEN chars to your resume
-updatePDF = True
+updatePDF = False
 
 # ----- No other changes required -----
 
